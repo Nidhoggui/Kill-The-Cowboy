@@ -4,4 +4,4 @@ A very simple game implemented using (Command Design) Pattern for the activity o
 
 gameplay exemple:
 
-![alt text](https://github.com/Nidhoggui/Kill-The-Cowboy/blob/main/gameplay.)
+![](https://github.com/Nidhoggui/Kill-The-Cowboy/blob/master/gameplay.png)
